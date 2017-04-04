@@ -174,7 +174,6 @@ Person.prototype.myFriends5 = function(friends){
 
 var friends = ['Bob', 'Jane', 'Mark'];
 new Person('Jonh').myFriends5(friends);
-*/
 
 // ES6
 function Person(name) {
@@ -190,3 +189,5 @@ Person.prototype.myFriends5 = function(friends){
 
 var friends = ['Bob', 'Jane', 'Mark'];
 new Person('Xanhenha').myFriends5(friends);
+*/
+
